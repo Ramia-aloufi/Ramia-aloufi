@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ramia-aloufi</h1>
+<h1 align="center">Hi 👋, I'm Ramia Aloufi</h1>
 <h3 align="center">UX-Driven Development | Full-Stack Developer & Ux Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramia-aloufi&label=Profile%20views&color=0e75b6&style=flat" alt="ramia-aloufi" /> </p>
