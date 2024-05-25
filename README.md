@@ -7,7 +7,7 @@
 
 </p>
 
-<h3 align="left"> Software developer, designer and tester a robust solutions that offer seamless user experiences</h3>
+<h3 align="left">As a designer, developer, and tester, I strive to create solutions that are reliable, seamless, and easy to use</h3>
 
 
 
