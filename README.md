@@ -9,5 +9,17 @@
 
 <h3 align="left"> Passionate designer, developer, and tester, striving to create solutions that are reliable, seamless, and easy to use</h3>
 
+<h2>🛠️ My Skills <h2>
+
+- **Frontend Development:** HTML, CSS, JavaScript, React, Angular, Tailwind, Bootstrap
+- **Backend Development:** Node.js, ASP.Net, Django, Laravel
+- **Mobile Development:** Swift (Native), Kotlin (Native)
+- **UX Design:** Figma, Adobe XD
+- **Quality Assurance:** Automated and Manual Testing
+- **Database:** MySQL, MongoDB, Firebase, PostgreSQL
+
+
+
+
 
 
