@@ -7,7 +7,7 @@
 
 </p>
 
-<h3 align="left"> Passionate designer, developer, and tester, striving to create solutions that are reliable, seamless, and easy to use</h3>
+<h3 align="left"> A skilled software engineer specializing in web and mobile development, UX design, and testing. Certified in Google Project Management and software testing, Proficient in React, Angular, JAVA, Node.js, Springboot, Laravel, asp.net , Django, SWift , SwiftUI and Kotlin. Expert in all phases of the SDLC, emphasizing user-centric design and implementing innovative software solutions to transform ideas into successful projects.</h3>
 
 <h2>🛠️ My Skills <h2>
 
