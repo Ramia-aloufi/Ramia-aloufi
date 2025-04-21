@@ -11,12 +11,12 @@
 
 <h2>🛠️ My Skills <h2>
 
-- `Frontend Development`: <p>HTML, CSS, JavaScript, React, Angular, Tailwind, Bootstrap</p>
-- `Backend Development`:<p> Node.js, Springboot, ASP.Net, Django, Laravel</p>
-- `Mobile Development`:<p> Swift, SwiftUi, Kotlin, Jetpack compose </p>
-- `UX Design` :<p> Figma, Adobe XD</p>
-- `Quality Assurance`:<p> Automated and Manual Testing</p>
-- `Database`: <p>MySQL, MongoDB, Firebase, PostgreSQL</p>
+- Frontend Development: HTML, CSS, JavaScript, React, Angular, Tailwind, Bootstrap</p>
+- Backend Development: Node.js, Springboot, ASP.Net, Django, Laravel</p>
+- Mobile Development: Swift, SwiftUi, Kotlin, Jetpack compose </p>
+- UX Design: Figma, Adobe XD
+- Quality Assurance: Automated and Manual Testing
+- Database: MySQL, MongoDB, Firebase, PostgreSQL
 
 
 
