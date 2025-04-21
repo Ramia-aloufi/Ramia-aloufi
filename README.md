@@ -12,8 +12,8 @@
 <h2>🛠️ My Skills <h2>
 
 - **Frontend Development:** HTML, CSS, JavaScript, React, Angular, Tailwind, Bootstrap
-- **Backend Development:** Node.js, ASP.Net, Django, Laravel
-- **Mobile Development:** Swift (Native), Kotlin (Native)
+- **Backend Development:** Node.js, Springboot, ASP.Net, Django, Laravel
+- **Mobile Development:** Swift, SwiftUi, Kotlin, Jetpack compose 
 - **UX Design:** Figma, Adobe XD
 - **Quality Assurance:** Automated and Manual Testing
 - **Database:** MySQL, MongoDB, Firebase, PostgreSQL
